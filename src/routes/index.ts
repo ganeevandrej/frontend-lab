@@ -1,0 +1,1 @@
+export { AppRouter, getAppNavigation } from './config'

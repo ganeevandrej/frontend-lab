@@ -162,8 +162,8 @@
 ---
 
 ## 🛠️ DX (Developer Experience)
-- [ ] linting
-- [ ] typing
+- [+] linting
+- [+] typing
 - [ ] debugging
 - [ ] logging
 - [ ] tooling consistency
